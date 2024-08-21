@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Engaging lectures and fair grading. Could improve on office hour availability."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Excellent teacher! Makes complex topics easy to understand. Highly recommended."
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Interesting content, but lectures can be disorganized. Assignments are challenging."
+    },
+    {
+      "professor": "Prof. Robert Anderson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Passionate about the subject. Assignments are thought-provoking. Sometimes talks too fast."
+    },
+    {
+      "professor": "Dr. Lisa Patel",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Clear explanations and helpful lab sessions. Always available for questions."
+    },
+    {
+      "professor": "Prof. David Wilson",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Difficult to follow in class. Exams are much harder than homework."
+    },
+    {
+      "professor": "Dr. Jennifer Lee",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Insightful discussions and well-structured course. Heavy reading load."
+    },
+    {
+      "professor": "Prof. Thomas Brown",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Knowledgeable but struggles to explain complex concepts. Helpful office hours."
+    },
+    {
+      "professor": "Dr. Maria Rodriguez",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Engaging lecturer with real-world examples. Encourages critical thinking."
+    },
+    {
+      "professor": "Prof. James Taylor",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Clear and concise lectures. Fair grading but tough exams."
+    },
+    {
+      "professor": "Dr. Elizabeth White",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Passionate and knowledgeable. Field trips greatly enhance the learning experience."
+    },
+    {
+      "professor": "Prof. Alexander Kim",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Interesting topics but can be biased in presentations. Good class discussions."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Enthusiastic about the subject. Group projects are well-organized."
+    },
+    {
+      "professor": "Prof. Daniel Martinez",
+      "subject": "Philosophy",
+      "stars": 2,
+      "review": "Often goes off-topic. Grading criteria are unclear. Interesting readings though."
+    },
+    {
+      "professor": "Dr. Olivia Parker",
+      "subject": "Neuroscience",
+      "stars": 5,
+      "review": "Brilliant lecturer. Challenging but rewarding course. Great lab component."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Business Administration",
+      "stars": 4,
+      "review": "Practical approach with real-world case studies. Sometimes rushes through material."
+    },
+    {
+      "professor": "Dr. Sophia Nguyen",
+      "subject": "Linguistics",
+      "stars": 3,
+      "review": "Interesting subject matter. Lectures can be dry. Helpful feedback on assignments."
+    },
+    {
+      "professor": "Prof. William Harris",
+      "subject": "Mechanical Engineering",
+      "stars": 4,
+      "review": "Thorough explanations of complex concepts. Heavy workload but very informative."
+    },
+    {
+      "professor": "Dr. Emma Davis",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Exceptional teacher. Makes theory accessible and fun. Great at answering questions."
+    },
+    {
+      "professor": "Prof. Andrew Wilson",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Knowledgeable but fast-paced. Office hours are very helpful for clarification."
+    }
+  ]
+}
